@@ -1,0 +1,16 @@
+{
+  "name": "racecord-dylib",
+  "version": "1.0.0",
+  "description": "A dynamic library loader",
+  "main": "out/index.js",
+  "repository": "git@ssh.git.ericrabil.com:Cask/racecord-dylib.git",
+  "author": "EricRabil <ericjrabil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.2",
+    "@types/node": "^9.6.6"
+  }
+}
